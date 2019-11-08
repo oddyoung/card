@@ -1,0 +1,24 @@
+body{
+  background-color: blue;
+  color: white;
+  font-family: arial;
+  font-weight: lighter;
+  margin-left: 50px;
+}
+h1{
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+a{
+  color: white;
+}
+.rectangle{
+  height: 300px;
+  width: 400px;
+  background-color: white;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2)
+}
+p{
+  margin-bottom: 100px;
+  color: yellow;
+}
